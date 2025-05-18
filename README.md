@@ -5,7 +5,7 @@ This is a full-stack web application built with React (frontend) and Spring Boot
 React.js – Frontend UI
 Spring Boot – Backend REST API
 Axios – For HTTP requests
-MySQL / H2 – (Use whichever you’ve used for database)
+H2 Database 
 
 **Features**
 View list of products
